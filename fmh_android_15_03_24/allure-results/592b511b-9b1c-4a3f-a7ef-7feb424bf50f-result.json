@@ -1,0 +1,197 @@
+{
+    "name": "Test-ID86. Редактирование заголовка сохраненной новости",
+    "start": 1744626390631,
+    "stop": 1744626405513,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Тап \"Главное меню\" (меню-гамбургер), выбрать раздел \"Новости\"",
+            "start": 1744626401673,
+            "stop": 1744626401674,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Тап на кнопку \"Карандаш\"",
+            "start": 1744626402736,
+            "stop": 1744626402736,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Тап на кнопку \"+\". Заполняем поля: категория, заголовок, дата, время, описание. Нажать кнопку \"Сохранить\"",
+            "start": 1744626403181,
+            "stop": 1744626403181,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбираем новость - Тестовый заголовок для редактирования",
+            "start": 1744626404146,
+            "stop": 1744626404146,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ищем новость в списке по заголовку Тестовый заголовок",
+            "start": 1744626404146,
+            "stop": 1744626404146,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Меняем заголовок новости на Мой новый заголовок",
+            "start": 1744626404291,
+            "stop": 1744626404291,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбираем новость - Мой новый заголовок для редактирования",
+            "start": 1744626404791,
+            "stop": 1744626404791,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ищем новость в списке по заголовку Мой новый заголовок",
+            "start": 1744626404791,
+            "stop": 1744626404791,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что заголовок изменен",
+            "start": 1744626404876,
+            "stop": 1744626404876,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "592b511b-9b1c-4a3f-a7ef-7feb424bf50f",
+    "historyId": "c13392de3b98271016ca78104531d428",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsEditingTest.changeTittleNewsTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsEditingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "changeTittleNewsTest"
+        },
+        {
+            "name": "suite",
+            "value": "Раздел редактирования новостей"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(642)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

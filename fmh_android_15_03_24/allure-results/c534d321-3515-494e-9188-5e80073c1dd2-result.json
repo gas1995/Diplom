@@ -1,0 +1,85 @@
+{
+    "name": "Test-ID22. Переход по ссылке \"Политика конфиденциальности\" в разделе \"О приложении\" ",
+    "start": 1744626596921,
+    "stop": 1744626609689,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Тап \"Главное меню\" (меню-гамбургер), выбрать раздел \"О приложении\"",
+            "start": 1744626608078,
+            "stop": 1744626608078,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем существование страницы: https://vhospice.org/#/privacy-policy",
+            "start": 1744626608938,
+            "stop": 1744626608938,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "c534d321-3515-494e-9188-5e80073c1dd2",
+    "historyId": "35466611d3935a3839a94eb423d30206",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutPageTest.goToUrlPrivacyPolicyTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "goToUrlPrivacyPolicyTest"
+        },
+        {
+            "name": "suite",
+            "value": "Раздел \"О приложении\""
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(672)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

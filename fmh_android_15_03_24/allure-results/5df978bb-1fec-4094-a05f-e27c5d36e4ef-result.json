@@ -1,0 +1,85 @@
+{
+    "name": "Test-ID7, Авторизация пользователя под невалидными логином и паролем",
+    "start": 1744626556591,
+    "stop": 1744626568769,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Вводим логин и пароль: login, password",
+            "start": 1744626567781,
+            "stop": 1744626567781,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем видимость сообщения об ошибке при неправильных логине и/или пароле.",
+            "start": 1744626568283,
+            "stop": 1744626568284,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "5df978bb-1fec-4094-a05f-e27c5d36e4ef",
+    "historyId": "b0b29df8c6e127768b18f5d7268d2ca0",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTest.invalidLoginInvalidPasswordTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "invalidLoginInvalidPasswordTest"
+        },
+        {
+            "name": "suite",
+            "value": "Раздел \"Авторизация\""
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(662)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

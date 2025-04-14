@@ -1,0 +1,101 @@
+{
+    "name": "Test-ID6, Авторизация пользователя под невалидным логином и валидным паролем",
+    "start": 1744626551015,
+    "stop": 1744626556580,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выйти из аккаунта, если авторизованы.",
+            "start": 1744626554522,
+            "stop": 1744626554522,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Вводим логин и пароль: login, password2",
+            "start": 1744626555496,
+            "stop": 1744626555496,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем видимость сообщения об ошибке при неправильных логине и/или пароле.",
+            "start": 1744626556070,
+            "stop": 1744626556070,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ca83cd1e-cee7-426a-b198-7cdc6b9d0fc4",
+    "historyId": "64b7d521c54a4db627c1baab23b20705",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTest.invalidLoginAuthorizationTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "invalidLoginAuthorizationTest"
+        },
+        {
+            "name": "suite",
+            "value": "Раздел \"Авторизация\""
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(662)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

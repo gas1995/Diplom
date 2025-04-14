@@ -1,0 +1,117 @@
+{
+    "name": "Test-ID119. Создание новости с пустыми полями",
+    "start": 1744626405525,
+    "stop": 1744626419658,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Тап \"Главное меню\" (меню-гамбургер), выбрать раздел \"Новости\"",
+            "start": 1744626416862,
+            "stop": 1744626416862,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Тап на кнопку \"Карандаш\"",
+            "start": 1744626417738,
+            "stop": 1744626417738,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Тап на кнопку \"+\". Оставить пустыми поля: категория, заголовок, дата, время, описание. Нажать кнопку \"Сохранить\"",
+            "start": 1744626418180,
+            "stop": 1744626418180,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем видимость сообщения об ошибке при создании новости с пустыми полями.",
+            "start": 1744626419131,
+            "stop": 1744626419131,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "f449d736-c340-4582-8b0c-5d6c7d775827",
+    "historyId": "8699901b43b8375286919f855dc1d396",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsEditingTest.createNewsWithEmptyFieldsTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsEditingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "createNewsWithEmptyFieldsTest"
+        },
+        {
+            "name": "suite",
+            "value": "Раздел редактирования новостей"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(642)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

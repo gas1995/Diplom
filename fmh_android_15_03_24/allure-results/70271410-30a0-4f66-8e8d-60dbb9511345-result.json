@@ -1,0 +1,101 @@
+{
+    "name": "Test-ID23. Переход по ссылке \"Пользовательское соглашение\" в разделе \"О приложении\"",
+    "start": 1744626589980,
+    "stop": 1744626596887,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Вводим логин и пароль: login2, password2",
+            "start": 1744626594244,
+            "stop": 1744626594246,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Тап \"Главное меню\" (меню-гамбургер), выбрать раздел \"О приложении\"",
+            "start": 1744626594682,
+            "stop": 1744626594682,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем существование страницы: https://vhospice.org/#/terms-of-use",
+            "start": 1744626595824,
+            "stop": 1744626595824,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "70271410-30a0-4f66-8e8d-60dbb9511345",
+    "historyId": "cb4f9de9222a4c89ed63eda42f7e087d",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutPageTest.goToUrlTermsOfUseTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "goToUrlTermsOfUseTest"
+        },
+        {
+            "name": "suite",
+            "value": "Раздел \"О приложении\""
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(672)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

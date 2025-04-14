@@ -1,0 +1,85 @@
+{
+    "name": "Test-ID16. Переход в раздел \"Цитаты\" через бабочку",
+    "start": 1744626459239,
+    "stop": 1744626472025,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Тап \"Значок бабочка\"",
+            "start": 1744626471018,
+            "stop": 1744626471019,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что открыт раздел \"Тематические цитаты\"",
+            "start": 1744626471463,
+            "stop": 1744626471463,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "251d32f4-b46b-4666-941c-12b56b21e599",
+    "historyId": "9539352c28fd7b7045f317e21294d769",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationTest.goToQuotesPageTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "goToQuotesPageTest"
+        },
+        {
+            "name": "suite",
+            "value": "Навигация по приложению"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(652)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

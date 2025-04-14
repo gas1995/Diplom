@@ -1,0 +1,101 @@
+{
+    "name": "Test-ID8, Авторизация пользователя с незаполненными полями",
+    "start": 1744626519195,
+    "stop": 1744626526062,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выйти из аккаунта, если авторизованы.",
+            "start": 1744626523605,
+            "stop": 1744626523606,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Вводим логин и пароль: , ",
+            "start": 1744626524776,
+            "stop": 1744626524777,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем видимость сообщения об ошибке при пустых логине и/или пароле.",
+            "start": 1744626525442,
+            "stop": 1744626525442,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9315588d-d8dc-4605-a81a-b5337bbf049a",
+    "historyId": "5cffc4a628b47d788c2827a35ad68c40",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTest.emptyLoginAndPasswordAuthorizationTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "emptyLoginAndPasswordAuthorizationTest"
+        },
+        {
+            "name": "suite",
+            "value": "Раздел \"Авторизация\""
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(662)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
